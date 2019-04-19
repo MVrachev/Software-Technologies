@@ -1,7 +1,7 @@
 import os
 
 def someFunction(user, password="Admin"):
-    print("Hi " + user)
+    print("Hi " + user). 
 
 def someFunction2(password):
     if password == "root":
